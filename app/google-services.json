@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211723336934",
+    "project_id": "blacktie-15874",
+    "storage_bucket": "blacktie-15874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211723336934:android:eed23f1a256a6dd6c44f27",
+        "android_client_info": {
+          "package_name": "com.app.btmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211723336934-cbeh23qt8d12rpkvvuf87rbeo2kqaj2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnn0msVGnJdwrpcEC0cEn-nibUxDFcX-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211723336934-cbeh23qt8d12rpkvvuf87rbeo2kqaj2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

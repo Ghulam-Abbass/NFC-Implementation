@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcomeTo">Welcomr To</string>
+    <string name="prompt_email">Email</string>
+    <string name="packageName">Package Name :</string>
+</resources>
